@@ -1,0 +1,4 @@
+# Only needed for `python -m pressure_points search`
+wordfreq>=3.0
+# Tests
+pytest>=7.0
