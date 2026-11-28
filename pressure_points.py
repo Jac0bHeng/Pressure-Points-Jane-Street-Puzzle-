@@ -13,8 +13,6 @@ The idea
 
 The solver fills all 19 diamonds at once with backtracking, uses every string
 exactly once, and keeps searching to prove the solution is unique.
-
-Solved by Jacky Chow, working with Claude. Standard library only: python pressure_points.py
 """
 
 from collections import Counter
